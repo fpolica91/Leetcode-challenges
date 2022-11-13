@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.cpp": [
+      {
+        "id": "1d788186-419a-4629-9967-51de5b3c6f6a",
+        "line": 19,
+        "version": 25,
+        "index": 370
+      },
+      {
+        "id": "de4a818a-935e-49cc-b25b-3475bed0e689",
+        "line": 21,
+        "version": 25,
+        "index": 436
+      },
+      {
+        "id": "6fc9c36d-1db9-4d7f-b35d-5168f6b728d8",
+        "line": 25,
+        "version": 25,
+        "index": 483
+      },
+      {
+        "id": "0fd172ae-f7b0-4956-b432-79a417462a72",
+        "line": 26,
+        "version": 41,
+        "index": 508
+      },
+      {
+        "id": "2b4a1164-ab73-4de3-9001-6a4f41966fe3",
+        "line": 27,
+        "version": 41,
+        "index": 539
+      }
+    ]
+  }
+}
