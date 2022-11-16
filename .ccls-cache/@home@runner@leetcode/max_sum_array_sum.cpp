@@ -1,7 +1,4 @@
-#include <bits/stdc++.h>
-#include <iostream>
-using namespace std;
-
+≈
 int maxSubArray(vector<int> &nums) {
   int largest = INT_MIN;
   int current = 0;
