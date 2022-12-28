@@ -3,9 +3,7 @@
 #include <vector>
 using namespace std;
 
-
 class Solution {
-
 public:
   vector<vector<int>> adj;
   vector<unordered_set<int>> radj;
