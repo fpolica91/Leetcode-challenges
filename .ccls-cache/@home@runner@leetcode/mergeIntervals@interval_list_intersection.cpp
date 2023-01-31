@@ -14,7 +14,7 @@ public:
     while (i < firstList.size() and k < secondList.size()) {
       int start = max(firstList[i][0], secondList[k][0]);
       int end = min(firstList[i][1], secondList[k][1]);
-    
+
       if (start <= end) {
         ans.push_back({start, end});
       }
